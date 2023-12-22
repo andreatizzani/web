@@ -26,7 +26,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: <meta name="google-site-verification" content="BPBMHRzzvqLCmMieiOBUHHw0pbnSh4Av9z-tWA-b3d0" />
+    google: "BPBMHRzzvqLCmMieiOBUHHw0pbnSh4Av9z-tWA-b3d0"
     baidu: ''
 
 # Site header
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false
